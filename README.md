@@ -1,2 +1,2 @@
 # proJet
-An easy tool for managing projects with efficentcy and agile method.
+An easy tool for managing projects with efficiency and agile method.
